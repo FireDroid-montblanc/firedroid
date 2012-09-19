@@ -272,7 +272,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="device/sony/kumquat" name="atis112/android_device_sony_kumquat" />
   <project path="device/sony/montblanc-common" name="atis112/android_device_sony_montblanc-common" />
-  <project path="hardware/somc/dash" name="atis112/android_hardware_sony_DASH" />
+  <project path="hardware/somc/dash" name="CyanogenMod/android_hardware_sony_DASH" />
 
 
   <project path="android" name="atis112/android" />
