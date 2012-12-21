@@ -277,6 +277,7 @@
   <project path="device/sony/pepper" name="atis112/android_device_sony_pepper" />
   <project path="device/sony/lotus" name="atis112/android_device_sony_lotus" />
   <project path="kernel/sony/u8500" name="atis112/sony-kernel-u8500" />
+  <project path="vendor/sony/kumquat" name="atis112/android_vendor_sony_kumquat" />
 
 
   <project path="android" name="atis112/android" />
