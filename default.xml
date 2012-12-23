@@ -159,7 +159,7 @@
   <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="atis112/android_frameworks_base" />
+  <project path="frameworks/base" name="FireDroid-montblanc/android_frameworks_base" />
   <project path="frameworks/compile/libbcc" name="CyanogenMod/android_frameworks_compile_libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
@@ -218,7 +218,7 @@
   <project path="packages/apps/Protips" name="CyanogenMod/android_packages_apps_Protips" />
   <project path="packages/apps/Provision" name="CyanogenMod/android_packages_apps_Provision" />
   <project path="packages/apps/QuickSearchBox" name="CyanogenMod/android_packages_apps_QuickSearchBox" />
-  <project path="packages/apps/Settings" name="atis112/android_packages_apps_Settings" />
+  <project path="packages/apps/Settings" name="FireDroid-montblanc/android_packages_apps_Settings" />
   <project path="packages/apps/SoundRecorder" name="CyanogenMod/android_packages_apps_SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -252,7 +252,7 @@
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
-  <project path="vendor/cm" name="atis112/android_vendor_cm" />
+  <project path="vendor/cm" name="FireDroid-montblanc/android_vendor_cm" />
   <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_kernel-tests_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-audio" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-audio" />
   <project path="vendor/qcom/opensource/omx/mm-core" name="CyanogenMod/android_vendor_qcom_opensource_omx_mm-core" />
@@ -271,18 +271,18 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="hardware/somc/dash" name="CyanogenMod/android_hardware_sony_DASH" />
-  <project path="device/sony/kumquat" name="atis112/android_device_sony_kumquat" />
-  <project path="device/sony/montblanc-common" name="atis112/android_device_sony_montblanc-common" />
-  <project path="device/sony/nypon" name="atis112/android_device_sony_nypon" />
-  <project path="device/sony/pepper" name="atis112/android_device_sony_pepper" />
-  <project path="device/sony/lotus" name="atis112/android_device_sony_lotus" />
-  <project path="kernel/sony/u8500" name="atis112/sony-kernel-u8500" />
-  <project path="vendor/sony/kumquat" name="atis112/android_vendor_sony_kumquat" />
-  <project path="vendor/sony/nypon" name="atis112/android_vendor_sony_nypon" />
-  <project path="vendor/sony/lotus" name="atis112/android_vendor_sony_lotus" />
-  <project path="vendor/sony/pepper" name="atis112/android_vendor_sony_pepper" />
-  <project path="vendor/sony/montblanc-common" name="atis112/android_vendor_sony_montblanc-common" />
+  <project path="device/sony/kumquat" name="FireDroid-montblanc/android_device_sony_kumquat" />
+  <project path="device/sony/montblanc-common" name="FireDroid-montblanc/android_device_sony_montblanc-common" />
+  <project path="device/sony/nypon" name="FireDroid-montblanc/android_device_sony_nypon" />
+  <project path="device/sony/pepper" name="FireDroid-montblanc/android_device_sony_pepper" />
+  <project path="device/sony/lotus" name="FireDroid-montblanc/android_device_sony_lotus" />
+  <project path="kernel/sony/u8500" name="FireDroid-montblanc/sony-kernel-u8500" />
+  <project path="vendor/sony/kumquat" name="FireDroid-montblanc/android_vendor_sony_kumquat" />
+  <project path="vendor/sony/nypon" name="FireDroid-montblanc/android_vendor_sony_nypon" />
+  <project path="vendor/sony/lotus" name="FireDroid-montblanc/android_vendor_sony_lotus" />
+  <project path="vendor/sony/pepper" name="FireDroid-montblanc/android_vendor_sony_pepper" />
+  <project path="vendor/sony/montblanc-common" name="FireDroid-montblanc/android_vendor_sony_montblanc-common" />
 
 
-  <project path="android" name="atis112/android" />
+  <project path="android" name="FireDroid-montblanc/android" />
 </manifest>
