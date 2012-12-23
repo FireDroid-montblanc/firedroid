@@ -281,7 +281,6 @@
   <project path="vendor/sony/lotus" name="atis112/android_vendor_sony_lotus" />
   <project path="vendor/sony/pepper" name="atis112/android_vendor_sony_pepper" />
   <project path="vendor/sony/montblanc-common" name="atis112/android_vendor_sony_montblanc-common" />
-  <project path="bootable/recovery" name="atis112/android_bootable_recovery" />
 
 
   <project path="android" name="atis112/android" />
