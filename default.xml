@@ -285,5 +285,5 @@
   <project path="vendor/sony/montblanc-common" name="FireDroid-montblanc/android_vendor_sony_montblanc-common" />
 
 
-  <project path="android" name="FireDroid-montblanc/android" />
+  <project path="android" name="FireDroid-montblanc/firedroid" />
 </manifest>
