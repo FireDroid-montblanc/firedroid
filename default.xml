@@ -271,6 +271,7 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="hardware/somc/dash" name="CyanogenMod/android_hardware_sony_DASH" />
+  <project path="packages/apps/CMFileManager" name="FireDroid-montblanc/android_packages_apps_CMFileManager" />
   <project path="device/sony/kumquat" name="FireDroid-montblanc/android_device_sony_kumquat" />
   <project path="device/sony/montblanc-common" name="FireDroid-montblanc/android_device_sony_montblanc-common" />
   <project path="device/sony/nypon" name="FireDroid-montblanc/android_device_sony_nypon" />
